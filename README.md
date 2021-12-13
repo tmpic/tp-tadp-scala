@@ -1,4 +1,4 @@
-# tp-tadp-scala-1c-2021
+# tp-tadp-scala-2c-2021
 
 Calabozos
 TAdeP - 2C 2021 - Trabajo Práctico Grupal: Objeto/Funcional
